@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LibraryContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CardLibrary>
+		<Card Number="2-001" Name="Silver R.P.M. Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="260" PowerLevelThree="300" PowerLevelFour="330" PowerLevelFive="410" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-002" Name="Gold R.P.M. Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="240" PowerLevelThree="270" PowerLevelFour="380" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription=" Your RPM cards cost 3 less." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-003" Name="Gold R.P.M. Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="240" PowerLevelThree="280" PowerLevelFour="380" PowerLevelFive="390" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-004" Name="Silver R.P.M. Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="240" PowerLevelTwo="260" PowerLevelThree="270" PowerLevelFour="330" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription=" Your RPM cards cost 3 less." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-005" Name="Samurai Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="400" PowerLevelTwo="450" PowerLevelThree="600" PowerLevelFour="750" PowerLevelFive="1100" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move 1 SAMURAI Zord card from your Discard Area to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>WIN</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-006" Name="Tiger Drill Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="600" PowerLevelTwo="650" PowerLevelThree="850" PowerLevelFour="950" PowerLevelFive="1250" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage for each SAMURAI Zord card you reveal from your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>WIN</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-007" Name="Battlewing Megazord" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="500" PowerLevelTwo="700" PowerLevelThree="900" PowerLevelFour="1050" PowerLevelFive="1150" PowerLevelSix="MAX" SummonCost="6" DamageAssist="0" EffectLogic="NA" EffectDescription="This gets +1 Damage for each Power Level this card is at, up to a maximum of +6 damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-008" Name="Turtle Zord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="300" PowerLevelThree="350" PowerLevelFour="400" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move 1 SAMURAI Zord from your Discard Area to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-009" Name="Bear Zord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="250" PowerLevelTwo="300" PowerLevelThree="350" PowerLevelFour="390" PowerLevelFive="410" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move 1 SAMURAI Zord from your Discard Area to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-010" Name="Swordfish Zord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="220" PowerLevelTwo="280" PowerLevelThree="390" PowerLevelFour="400" PowerLevelFive="410" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move 1 SAMURAI Zord from your Discard Area to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-011" Name="Red Samurai Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If this card is battling a card with an effect, your opponent takes 1 damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-012" Name="Red Samurai Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="MAX" PowerLevelTwo="170" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-013" Name="Red Samurai Ranger (Lauren)" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="250" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="If this is battling a card with an effect, your opponent takes 1 damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-014" Name="Gold Samurai Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="350" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If you have no cards in your Training Area, your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-015" Name="Red Samurai Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="180" PowerLevelTwo="210" PowerLevelThree="250" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-016" Name="Green Samurai Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="150" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="230" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent reveals 2 cards from their hand and you may discard 1 card they revealed in this way." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-017" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="150" PowerLevelThree="160" PowerLevelFour="180" PowerLevelFive="190" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to reduce the damage you are taking by 1." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-018" Name="Gosei Grand Megazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="550" PowerLevelTwo="MAX" PowerLevelThree="650" PowerLevelFour="700" PowerLevelFive="1400" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-019" Name="Robo Knight" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="250" PowerLevelThree="260" PowerLevelFour="270" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You cannot take any damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-020" Name="Gosei Great Megazord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="MAX" PowerLevelTwo="500" PowerLevelThree="550" PowerLevelFour="700" PowerLevelFive="750" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-021" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="180" PowerLevelTwo="200" PowerLevelThree="220" PowerLevelFour="280" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-022" Name="Robo Knight" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="230" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="280" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a card with a SHIELD ability symbol from your hand to change this card's SCISSORS symbol to ROCK or PAPER." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-023" Name="Gosei Great Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="450" PowerLevelTwo="500" PowerLevelThree="700" PowerLevelFour="800" PowerLevelFive="850" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move this to your hand, your Training Area, or the bottom of your deck instead of your Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-024" Name="Sky Megazord" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="550" PowerLevelTwo="650" PowerLevelThree="750" PowerLevelFour="850" PowerLevelFive="900" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You may discard a card with a SHIELD ability symbol from your hand to change this card's SCISSORS symbol to ROCK or PAPER." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-025" Name="Phoenix Mechazord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="330" PowerLevelThree="340" PowerLevelFour="360" PowerLevelFive="380" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move the top 2 cards of your Discard Area to the bottom of your Deck in any order." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-026" Name="Sky Brothers Zord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="290" PowerLevelThree="330" PowerLevelFour="350" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move the top 2 cards of your Discard Area to the bottom of your Deck in any order." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-027" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="MAX" PowerLevelTwo="170" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-028" Name="Pink Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="150" PowerLevelThree="160" PowerLevelFour="170" PowerLevelFive="180" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to reduce the damage you are taking by 1." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-029" Name="Pink Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="220" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this card to your hand instead of your Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-030" Name="Pink Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="190" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="370" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-031" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="140" PowerLevelThree="150" PowerLevelFour="160" PowerLevelFive="170" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to reduce the damage you are taking by 1." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-032" Name="Black Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="210" PowerLevelThree="220" PowerLevelFour="270" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-033" Name="Yellow Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="160" PowerLevelFour="170" PowerLevelFive="180" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to reduce the damage you are taking by 1." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-034" Name="Yellow Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-035" Name="Blue Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="160" PowerLevelFour="170" PowerLevelFive="180" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to reduce the damage you are taking by 1." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-036" Name="Blue Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this card to your hand instead of your Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-037" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="220" PowerLevelFour="240" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-038" Name="Robo Knight" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription=" If you have no cards in your Training Area, you may move this card to your Training Area instead of your Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-039" Name="Ultra Gosei Great Megazord" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="800" PowerLevelTwo="850" PowerLevelThree="950" PowerLevelFour="1000" PowerLevelFive="1200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="7" EffectLogic="NA" EffectDescription="You may move the bottom 2 cards of your deck to your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-040" Name="Gosei Grand Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="500" PowerLevelTwo="600" PowerLevelThree="700" PowerLevelFour="900" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="5" EffectLogic="NA" EffectDescription="You may move the top 2 cards of your Discard Area to the bottom of your Deck in any order." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-041" Name="Blue Ninja Storm Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="140" PowerLevelThree="150" PowerLevelFour="170" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-042" Name="Red Ninja Storm Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="140" PowerLevelThree="160" PowerLevelFour="180" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-043" Name="Yellow Ninja Storm Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="130" PowerLevelThree="150" PowerLevelFour="190" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-044" Name="Red Lightspeed Rescue Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="100" PowerLevelFour="100" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange this with another card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-045" Name="Blue Lightspeed Rescue Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="400" PowerLevelThree="100" PowerLevelFour="100" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange this with another card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-046" Name="Green Lightspeed Rescue Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="400" PowerLevelFour="100" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange this with another card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-047" Name="Yellow Lightspeed Rescue Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="100" PowerLevelFour="400" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange this with another card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-048" Name="Pink Lightspeed Rescue Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="400" PowerLevelTwo="100" PowerLevelThree="100" PowerLevelFour="100" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange this with another card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-049" Name="High Octane Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="500" PowerLevelTwo="550" PowerLevelThree="600" PowerLevelFour="650" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may discard 2 cards from your Training Area to change your judgment to L6 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-050" Name="Lion Hauler" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="310" PowerLevelTwo="340" PowerLevelThree="400" PowerLevelFour="450" PowerLevelFive="500" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-051" Name="Red RPM Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="MAX" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="200" PowerLevelFive="210" PowerLevelSix="220" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-052" Name="Green S.P.D. Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="300" PowerLevelThree="100" PowerLevelFour="300" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-053" Name="Red S.P.D. Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="300" PowerLevelTwo="100" PowerLevelThree="300" PowerLevelFour="100" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-054" Name="Yellow S.P.D. Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="300" PowerLevelThree="100" PowerLevelFour="100" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-055" Name="Blue S.P.D. Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="300" PowerLevelFour="100" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-056" Name="Delta Squad Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="300" PowerLevelTwo="1000" PowerLevelThree="300" PowerLevelFour="1000" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="If this is at L2, L4, or L6+, this gets +2 Damage and you cannot take any damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-057" Name="Pink S.P.D. Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="300" PowerLevelTwo="100" PowerLevelThree="100" PowerLevelFour="100" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-058" Name="Red S.P.D. Ranger (S.W.A.T.)" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="500" PowerLevelThree="100" PowerLevelFour="500" PowerLevelFive="100" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card gets L2, L4, or L6+, this gets +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-059" Name="Blue S.P.D. Ranger (S.W.A.T.)" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="110" PowerLevelTwo="500" PowerLevelThree="120" PowerLevelFour="450" PowerLevelFive="120" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card gets L2, L4, or L6+, this gets +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-060" Name="Green S.P.D. Ranger (S.W.A.T.)" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="450" PowerLevelThree="100" PowerLevelFour="450" PowerLevelFive="150" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card gets L2, L4, or L6+, this gets +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-061" Name="Yellow S.P.D. Ranger (S.W.A.T.)" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="400" PowerLevelThree="200" PowerLevelFour="400" PowerLevelFive="150" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card gets L2, L4, or L6+, this gets +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-062" Name="Pink S.P.D. Ranger (S.W.A.T.)" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="450" PowerLevelThree="140" PowerLevelFour="450" PowerLevelFive="130" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card gets L2, L4, or L6+, this gets +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-063" Name="Shadow S.P.D. Ranger" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="200" PowerLevelTwo="600" PowerLevelThree="100" PowerLevelFour="600" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this is at L2, L4, or L6+, this gets +1 Damage and you cannot take any damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-064" Name="Crimson Ninja Storm Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="290" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent reveals their hand and you may discard a 4 or 5 cost card among the cards they revealed this way." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-065" Name="Crimson Ninja Storm Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="260" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent reveals their hand and you may discard a 0 or 1 cost card among the cards they revealed this way." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-066" Name="Navy Ninja Storm Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="240" PowerLevelThree="260" PowerLevelFour="280" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent reveals their hand and you may discard a 2 or 3 cost card among the cards they revealed this way." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-067" Name="Red Space Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="200" PowerLevelThree="200" PowerLevelFour="300" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-068" Name="Black Space Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="150" PowerLevelThree="200" PowerLevelFour="300" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-069" Name="Blue Space Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="200" PowerLevelThree="250" PowerLevelFour="250" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-070" Name="Yellow Space Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="200" PowerLevelThree="250" PowerLevelFour="250" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-071" Name="Pink Space Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-072" Name="Red Mystic Force Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="170" PowerLevelFour="180" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-073" Name="Yellow Mystic Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="180" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-074" Name="Blue Mystic Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-075" Name="Pink Mystic Force Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-076" Name="Green Mystic Force Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="180" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard 1 card from your hand to draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-077" Name="Tiger Zord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="300" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-078" Name="Shark Zord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="250" PowerLevelThree="270" PowerLevelFour="300" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-079" Name="Snake Zord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="220" PowerLevelThree="250" PowerLevelFour="300" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-080" Name="Diabolico" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="160" PowerLevelTwo="260" PowerLevelThree="460" PowerLevelFour="620" PowerLevelFive="700" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent discards all but 1 card from their Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-081" Name="Vexacus" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="240" PowerLevelThree="330" PowerLevelFour="410" PowerLevelFive="510" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent randomly discards 1 card from their hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-082" Name="Krybot" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="100" PowerLevelFour="200" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move a 0 cost card from your Discard Area to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-083" Name="Koragg" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="240" PowerLevelTwo="300" PowerLevelThree="320" PowerLevelFour="340" PowerLevelFive="500" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may redo your judgment by moving a 1 or 2 cost card from your hand to your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-084" Name="Bulk" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="1" PowerLevelTwo="2" PowerLevelThree="3" PowerLevelFour="4" PowerLevelFive="5" PowerLevelSix="MAX" SummonCost="0" DamageAssist="3" EffectLogic="NA" EffectDescription="If this is battling a Villain card, you cannot take damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Support</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-085" Name="Mentor Ji" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="1" PowerLevelTwo="2" PowerLevelThree="3" PowerLevelFour="4" PowerLevelFive="5" PowerLevelSix="MAX" SummonCost="1" DamageAssist="4" EffectLogic="NA" EffectDescription="Your opponent's [WIN] [LOSE] effects cannot be used this turn." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Support</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-086" Name="Phoenix Zord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="230" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="280" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to the bottom of your Deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-087" Name="Gosei Jet Megazord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="400" PowerLevelTwo="450" PowerLevelThree="500" PowerLevelFour="550" PowerLevelFive="600" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move a card below this to your Training Area to give this +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-088" Name="Gosei Grand Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="540" PowerLevelTwo="650" PowerLevelThree="700" PowerLevelFour="810" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move a card below this to your Training Area to change this card's ROCK symbol to PAPER." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-089" Name="Gold Ranger (Mega Mode)" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="200" PowerLevelTwo="MAX" PowerLevelThree="300" PowerLevelFour="MAX" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card's Power is MAX, you may discard the card battling this card." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-090" Name="Lion Foldingzord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="240" PowerLevelTwo="320" PowerLevelThree="340" PowerLevelFour="390" PowerLevelFive="410" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may discard a SAMURAI card below this to give this +1 Damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-091" Name="Tiger Zord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="220" PowerLevelTwo="310" PowerLevelThree="330" PowerLevelFour="380" PowerLevelFive="460" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription=" If the top card of your Discard Area is a Zord card, you may move it to your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-092" Name="Bear Zord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="220" PowerLevelTwo="300" PowerLevelThree="310" PowerLevelFour="360" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may discard a SAMURAI card below this to discard 1 card in your opponent's Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-093" Name="Red Super Samurai Ranger (Lauren)" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="240" PowerLevelThree="280" PowerLevelFour="380" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card is battling a 1 cost card, each Power of that card is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-094" Name="Samurai Gigazord" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="1000" PowerLevelTwo="1100" PowerLevelThree="1200" PowerLevelFour="MAX" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="8" DamageAssist="5" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage for every Zord in your Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-095" Name="Bear Crawler" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="320" PowerLevelTwo="240" PowerLevelThree="420" PowerLevelFour="440" PowerLevelFive="480" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move the top card of your Discard Area to your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-096" Name="Mach Megazord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="350" PowerLevelTwo="450" PowerLevelThree="500" PowerLevelFour="550" PowerLevelFive="650" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may play this card onto a RPM Zord card in your Battle Area for 0 cost." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>TRAINING AREA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-097" Name="Paleomax Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="330" PowerLevelTwo="350" PowerLevelThree="400" PowerLevelFour="450" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may discard 2 cards from your Training Area to change your opponent's judgment to L1 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-098" Name="Solaris Knight" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="370" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may select a player and they draw 2 cards." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-099" Name="Titan Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="550" PowerLevelTwo="600" PowerLevelThree="650" PowerLevelFour="700" PowerLevelFive="800" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may draw up to 1 card for each card in your Training Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-100" Name="Red Dragon Fire Mystic Force Ranger" RockPaperScissorType="P" Rarity="Ultra Rare" PowerLevelOne="MAX" PowerLevelTwo="200" PowerLevelThree="220" PowerLevelFour="330" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage and you may draw 1 card." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-101" Name="Red Mystic Force Ranger (Legend Mode)" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="170" PowerLevelTwo="250" PowerLevelThree="280" PowerLevelFour="300" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage for every 3 cards in your hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-102" Name="Green Mystic Force Ranger (Legend Mode)" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="260" PowerLevelFour="320" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage each time they perform a judgment." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-103" Name="Manticore Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="650" PowerLevelTwo="650" PowerLevelThree="850" PowerLevelFour="950" PowerLevelFive="1200" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You opponent takes 1 damage for each different type of card in their Discard Area." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-104" Name="Red Galaxy Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="240" PowerLevelThree="280" PowerLevelFour="300" PowerLevelFive="350" PowerLevelSix="350" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may redo your judgment." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-105" Name="Blue Galaxy Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="250" PowerLevelThree="280" PowerLevelFour="300" PowerLevelFive="320" PowerLevelSix="340" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may redo your judgment." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-106" Name="Green Galaxy Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="220" PowerLevelTwo="250" PowerLevelThree="270" PowerLevelFour="310" PowerLevelFive="320" PowerLevelSix="330" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may redo your judgment." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-107" Name="Pink Galaxy Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="240" PowerLevelTwo="250" PowerLevelThree="270" PowerLevelFour="280" PowerLevelFive="300" PowerLevelSix="360" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may redo your judgment." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-108" Name="Yellow Galaxy Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="230" PowerLevelTwo="240" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="310" PowerLevelSix="370" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may redo your judgment." Color="Red" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-109" Name="Green Samurai Ranger" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="220" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="290" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If your opponent takes Bonus Damage, they discard 3 cards from their hand." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-110" Name="Goldar" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="380" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move this to your hand and have your opponent take 1 damage." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-111" Name="Ocotomus" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="300" PowerLevelTwo="370" PowerLevelThree="410" PowerLevelFour="510" PowerLevelFive="610" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="The opposing card's MAX Power is changed to 0 instead." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MYSTIC FORCE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-112" Name="Rita Repulsa" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="230" PowerLevelTwo="300" PowerLevelThree="350" PowerLevelFour="400" PowerLevelFive="420" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may use this card's EVIL ability symbol effect up to twice." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-113" Name="Treacheron" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="350" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card is used to pay the cost of a card, you may move it to the top of your deck." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-114" Name="Desperaino" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard the top card of your opponent's Deck instead of yours if you use the EVIL ability symbol." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="2-115" Name="Ecliptor" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="250" PowerLevelFour="270" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may draw 1 card after this card uses the effect of the EVIL ability symbol." Color="NA" CardSeries="Guardians of Justice" CardSeriesNumber="2">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+	</CardLibrary>
+</LibraryContainer>

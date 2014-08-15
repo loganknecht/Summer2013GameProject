@@ -1,0 +1,48 @@
+Connected to master server at 54.215.135.73:23466
+
+Incoming host list query response from master server.
+
+Connecting to connection tester at 67.225.180.24:10737
+UnityEngine.Network:TestConnection()
+NetworkGameManager:shouldUseNAT() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:83)
+NetworkGameManager:Start() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:58)
+
+Status: Testing network connection capabilities.
+UnityEngine.Debug:Log(Object)
+NetworkGameManager:shouldUseNAT() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:160)
+NetworkGameManager:Start() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:58)
+
+Message: Undetermined NAT capabilities
+UnityEngine.Debug:Log(Object)
+NetworkGameManager:shouldUseNAT() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:161)
+NetworkGameManager:Start() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:58)
+
+Running as server. Player ID is 0.
+UnityEngine.Network:InitializeServer(Int32, Int32, Boolean)
+NetworkGameManager:Start() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:58)
+
+Attempting to connect to master server at 54.215.135.73:23466
+UnityEngine.MasterServer:RegisterHost(String, String)
+NetworkGameManager:Start() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:59)
+
+Connected to master server at 54.215.135.73:23466
+
+Sent host registration to master server, registering a non-NAT assisted game as
+ "adfasd", 1, 3, not password protected, ""
+
+Starting NAT connection test.
+
+Received identifier 0 from master server
+
+New connection established (192.168.0.3:54921)
+
+Network protocol version 0 connected
+
+Allocated 2 batches of size 50 for player 1
+
+Sent initalization to player 1
+
+player connected
+UnityEngine.Debug:Log(Object)
+NetworkGameManager:OnPlayerConnected() (at Assets/Scripts/Classes/Networking/NetworkGameManager.cs:189)
+

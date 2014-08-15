@@ -1,0 +1,2 @@
+show player judgement and "current power level"
+There is a bug with extra summons and summons where the cards for the rmeote player don't discard right???

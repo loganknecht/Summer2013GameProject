@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LibraryContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CardLibrary>
+		<Card Number="1-001" Name="Red Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="230" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-002" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="230" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-003" Name="Pink Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="220" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-004" Name="Pink Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-005" Name="Black Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-006" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-007" Name="Yellow Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="190" PowerLevelFour="130" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-008" Name="Yellow Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-009" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-010" Name="Blue Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-011" Name="Red Samurai Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="160" PowerLevelThree="200" PowerLevelFour="230" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-012" Name="Red Samurai Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="200" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-013" Name="Blue Samurai Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="190" PowerLevelFour="220" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-014" Name="Pink Samurai Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-015" Name="Green Samurai Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-016" Name="Yellow Samurai Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="200" PowerLevelFour="240" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-017" Name="Red RPM Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="220" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-018" Name="Red RPM Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="130" PowerLevelTwo="140" PowerLevelThree="170" PowerLevelFour="210" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may exchange 1 RPM card in your Training Area with another RPM card in your hand." Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-019" Name="Blue RPM Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="240" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-020" Name="Yellow RPM Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="240" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-021" Name="Green RPM Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="230" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-022" Name="Black RPM Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="220" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-023" Name="Land Megazord" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="720" PowerLevelTwo="800" PowerLevelThree="850" PowerLevelFour="930" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You may redo your judgment by discarding the top card of your deck." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-024" Name="Samurai Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="500" PowerLevelTwo="550" PowerLevelThree="650" PowerLevelFour="750" PowerLevelFive="850" PowerLevelSix="MAX" SummonCost="5" DamageAssist="3" EffectLogic="NA" EffectDescription="This gets +1 Damage for each SAMURAI card in your Training Area." Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-025" Name="Swordfish Fencer Megazord" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="600" PowerLevelTwo="700" PowerLevelThree="850" PowerLevelFour="1000" PowerLevelFive="1150" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="Discard 1 card from your opponent's Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-026" Name="High Octane Megazord" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="550" PowerLevelTwo="650" PowerLevelThree="700" PowerLevelFour="850" PowerLevelFive="950" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-027" Name="High Octane Megazord" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="450" PowerLevelTwo="550" PowerLevelThree="650" PowerLevelFour="750" PowerLevelFive="900" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription=" RPM cards in your Training Area give an additional +1 Assist." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-028" Name="Aqua Zord Brothers" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="290" PowerLevelTwo="320" PowerLevelThree="330" PowerLevelFour="360" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-029" Name="Terra Zord Brothers" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="280" PowerLevelTwo="300" PowerLevelThree="340" PowerLevelFour="380" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-030" Name="Beetle Zord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="350" PowerLevelTwo="400" PowerLevelThree="500" PowerLevelFour="600" PowerLevelFive="650" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription=" Discard 1 card from your opponent's Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-031" Name="Eagle Racer" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="260" PowerLevelTwo="280" PowerLevelThree="430" PowerLevelFour="450" PowerLevelFive="580" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move the top card of your Deck to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-032" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="200" PowerLevelThree="240" PowerLevelFour="280" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-033" Name="Red Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="220" PowerLevelThree="250" PowerLevelFour="290" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-034" Name="Red Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="300" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-035" Name="Pink Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="200" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-036" Name="Pink Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="280" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-037" Name="Pink Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="280" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-038" Name="Black Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-039" Name="Black Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-040" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="220" PowerLevelThree="250" PowerLevelFour="300" PowerLevelFive="340" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-041" Name="Yellow Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-042" Name="Yellow Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="300" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-043" Name="Blue Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="180" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-044" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="220" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-045" Name="Gold Samurai Ranger" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="250" PowerLevelTwo="260" PowerLevelThree="300" PowerLevelFour="330" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may apply Special Effect 1 or 2." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-046" Name="Red RPM Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-047" Name="Blue RPM Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-048" Name="Yellow RPM Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-049" Name="Green RPM Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-050" Name="Black RPM Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="200" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="1" EffectLogic="NA" EffectDescription="You may move this to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-051" Name="Master Xandred" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="350" PowerLevelTwo="400" PowerLevelThree="450" PowerLevelFour="500" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="If this is battling a SAMURAI card, this gets -1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-052" Name="Deker" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="MAX" PowerLevelTwo="450" PowerLevelThree="200" PowerLevelFour="200" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may discard 1 card with an EVIL ability symbol from your hand to give -1 to your judgment." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-053" Name="Serrator" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="320" PowerLevelThree="400" PowerLevelFour="530" PowerLevelFive="670" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent takes 2 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-054" Name="Octoroo" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="170" PowerLevelTwo="190" PowerLevelThree="200" PowerLevelFour="220" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move 1 Villain Card from your Discard Area to your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-055" Name="Steeleto" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="270" PowerLevelTwo="300" PowerLevelThree="350" PowerLevelFour="380" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription=" No players may Assist" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-056" Name="Vrak" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="290" PowerLevelTwo="320" PowerLevelThree="350" PowerLevelFour="360" PowerLevelFive="380" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this is battling a 0 cost card this gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-057" Name="Moogers" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="150" PowerLevelThree="150" PowerLevelFour="200" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move a 0 cost card from your Discard Area to your hand." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-058" Name="Loogie" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="100" PowerLevelThree="150" PowerLevelFour="200" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move a 0 cost card from your Discard Area to your hand." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-059" Name="Grinders" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="100" PowerLevelTwo="150" PowerLevelThree="200" PowerLevelFour="200" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move a 0 cost card from your Discard Area to your hand." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-060" Name="Dayu" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="220" PowerLevelTwo="230" PowerLevelThree="250" PowerLevelFour="290" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Move 1 Villain card from Discard Area to your hand." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-061" Name="Red RPM Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="240" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your RPM cards cost 1 less." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-062" Name="Blue RPM Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your RPM cards cost 1 less." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-063" Name="Yellow RPM Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="240" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your RPM cards cost 1 less." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-064" Name="Green RPM Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your RPM cards cost 1 less." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-065" Name="Black RPM Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="250" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your RPM cards cost 1 less." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-066" Name="Red Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If your judgment is 1, you cannot take damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-067" Name="Red Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-068" Name="Red Mighty Morphin Ranger" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="240" PowerLevelTwo="250" PowerLevelThree="370" PowerLevelFour="440" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage each time this gets an Assist from a card with an ALLY ability symbol." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-069" Name="Blue Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If your judgment is 1, you cannot take damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-070" Name="Blue Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="220" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-071" Name="Black Mighty Morphin Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="170" PowerLevelFour="190" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If your judgment is 1, you cannot take damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-072" Name="Black Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="240" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-073" Name="Yellow Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="130" PowerLevelTwo="170" PowerLevelThree="190" PowerLevelFour="200" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If your judgment is 1, you cannot take damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-074" Name="Yellow Mighty Morphin Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="180" PowerLevelTwo="190" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-075" Name="Pink Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="140" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If your judgment is 1, you cannot take damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-076" Name="Pink Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="160" PowerLevelTwo="190" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 Damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-077" Name="Green Mighty Morphin Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="240" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-078" Name="Green Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="170" PowerLevelTwo="190" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription=" Look at the top card of your opponent's Deck and you may exchange it with the card in their Battle Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-079" Name="White Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="180" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="260" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move this card to your hand." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>DAMAGE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-080" Name="White Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="220" PowerLevelTwo="240" PowerLevelThree="250" PowerLevelFour="270" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription=" Draw 2 cards, then move 2 cards from your hand to the bottom of your deck in any order." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-081" Name="Dino Megazord" RockPaperScissorType="P" Rarity="Ultra Rare" PowerLevelOne="400" PowerLevelTwo="410" PowerLevelThree="520" PowerLevelFour="730" PowerLevelFive="840" PowerLevelSix="MAX" SummonCost="5" DamageAssist="3" EffectLogic="NA" EffectDescription="This gets +1 Damage for each card in your Training Area with an ALLY symbol." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-082" Name="ValveMax Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="500" PowerLevelTwo="560" PowerLevelThree="620" PowerLevelFour="660" PowerLevelFive="960" PowerLevelSix="MAX" SummonCost="5" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move 1 card from the top of your Discard Area to your hand for each RPM card in your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-083" Name="Tiger Drill Megazord" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="710" PowerLevelTwo="810" PowerLevelThree="850" PowerLevelFour="930" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="Your opponent takes 2 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-084" Name="Battle Mode Dragon Megazord" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="410" PowerLevelTwo="520" PowerLevelThree="650" PowerLevelFour="950" PowerLevelFive="1170" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You may discard a card below this to changed each Power of this to MAX instead." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-085" Name="Red Super Samurai Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="270" PowerLevelTwo="280" PowerLevelThree="300" PowerLevelFour="350" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play this card onto a SAMURAI card in your Battle Area for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-086" Name="Red Samurai Ranger (Shark Attack Mode)" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="300" PowerLevelTwo="340" PowerLevelThree="360" PowerLevelFour="MAX" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may play this card onto a card in your Battle Area with RED in its name for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-087" Name="Pink Super Samurai Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="250" PowerLevelTwo="290" PowerLevelThree="320" PowerLevelFour="340" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play this card onto a SAMURAI card in your Battle Area for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-088" Name="Green Super Samurai Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="260" PowerLevelTwo="300" PowerLevelThree="310" PowerLevelFour="330" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play this card onto a SAMURAI card in your Battle Area for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-089" Name="Yellow Super Samurai Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="270" PowerLevelTwo="300" PowerLevelThree="310" PowerLevelFour="320" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play this card onto a SAMURAI card in your Battle Area for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-090" Name="Blue Super Samurai Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="290" PowerLevelThree="310" PowerLevelFour="320" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play this card onto a SAMURAI card in your Battle Area for 0 cost." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-091" Name="Red Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="210" PowerLevelFour="240" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-092" Name="Blue Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="140" PowerLevelThree="180" PowerLevelFour="210" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-093" Name="Pink Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-094" Name="Green Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="220" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-095" Name="Yellow Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="170" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-096" Name="Samurai Megazord" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="600" PowerLevelTwo="650" PowerLevelThree="700" PowerLevelFour="850" PowerLevelFive="900" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-097" Name="Beetle Blaster Megazord" RockPaperScissorType="S" Rarity="Starter Rare" PowerLevelOne="700" PowerLevelTwo="750" PowerLevelThree="800" PowerLevelFour="950" PowerLevelFive="1100" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage for each SAMURAI card in your Training Area." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-098" Name="Dragon Zord" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="300" PowerLevelTwo="350" PowerLevelThree="400" PowerLevelFour="450" PowerLevelFive="500" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-099" Name="Ape Zord" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="280" PowerLevelTwo="300" PowerLevelThree="360" PowerLevelFour="480" PowerLevelFive="580" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-100" Name="Red Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="170" PowerLevelTwo="200" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-101" Name="Blue Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="180" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-102" Name="Pink Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="220" PowerLevelFour="260" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-103" Name="Green Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="270" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-104" Name="Yellow Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="190" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent takes 1 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-105" Name="Gold Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="240" PowerLevelTwo="270" PowerLevelThree="300" PowerLevelFour="340" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="1" EffectLogic="NA" EffectDescription="If you have 2 or more cards in your Training Area, your opponent takes 2 damage." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-106" Name="Red Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="170" PowerLevelFour="190" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move this to the bottom of your Deck." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-107" Name="Pink Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="180" PowerLevelFour="210" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move this to the bottom of your Deck." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-108" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="120" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="220" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move this to the bottom of your Deck." Color="Red" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-109" Name="Yellow Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="110" PowerLevelTwo="140" PowerLevelThree="190" PowerLevelFour="220" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move this to the bottom of your Deck." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-110" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="190" PowerLevelFour="200" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Move this to the bottom of your Deck." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-111" Name="Gosei Great Megazord" RockPaperScissorType="R" Rarity="Starter Rare" PowerLevelOne="550" PowerLevelTwo="600" PowerLevelThree="650" PowerLevelFour="700" PowerLevelFive="800" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may discard 1 MEGAFORCE card from your hand to give +1 to your judgment." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-112" Name="Sea Megazord" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="650" PowerLevelTwo="750" PowerLevelThree="850" PowerLevelFour="900" PowerLevelFive="1150" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="Move the top 3 cards of your Discard Area to the bottom of your Deck in any order." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-113" Name="Dragon Mechazord" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="350" PowerLevelTwo="450" PowerLevelThree="600" PowerLevelFour="700" PowerLevelFive="800" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-114" Name="Snake Mechazord" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="300" PowerLevelTwo="350" PowerLevelThree="450" PowerLevelFour="500" PowerLevelFive="600" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-115" Name="Shark Mechazord" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="250" PowerLevelTwo="350" PowerLevelThree="450" PowerLevelFour="550" PowerLevelFive="600" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-116" Name="Red Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="180" PowerLevelTwo="200" PowerLevelThree="230" PowerLevelFour="270" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card from your hand to change this card's ROCK symbol to SCISSORS." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-117" Name="Pink Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="190" PowerLevelTwo="190" PowerLevelThree="220" PowerLevelFour="270" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card from your hand to change this card's PAPER symbol to ROCK." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-118" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="190" PowerLevelTwo="210" PowerLevelThree="220" PowerLevelFour="260" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card from your hand to change this card's PAPER symbol to SCISSORS." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-119" Name="Yellow Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="250" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card from your hand to change this card's SCISSORS symbol to ROCK." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="1-120" Name="Blue Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="180" PowerLevelTwo="200" PowerLevelThree="230" PowerLevelFour="240" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card from your hand to change this card's SCISSORS symbol to PAPER." Color="NA" CardSeries="Rise of Heroes" CardSeriesNumber="1">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+	</CardLibrary>
+</LibraryContainer>

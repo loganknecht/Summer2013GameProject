@@ -1,0 +1,32 @@
+<RemotePlayerGameState currentGameTurn=""
+						synchronizedDeck=""
+						phaseStarted="" 
+						isReady=""
+						performedDraw=""
+						clearedPlayingField=""
+						summonStepCompleted=""
+						extraSummonStepCompleted=""
+						judgement=""
+						judgementStepCompleted=""
+						battleStepCompleted=""
+						battleStepAssistCompleted=""
+						wonBattle=""
+						assistUsed=""
+						assistDone=""
+						settlementCompleted="">
+	<CardCurrentlyBeingDragged uniqueID="" xOffset="" yOffset="" zOffset="" />
+	
+	<SummonCard uniqueID="" />
+	
+	<ExtraSummonCard uniqueID="" />
+	
+	<PlayerHand>
+		<HandCard uniqueID="" wasSelected="" />
+		<HandCard uniqueID="" wasSelected="" />
+		<HandCard uniqueID="" wasSelected="" />
+	</PlayerHand>
+	
+	<TrainingHand>
+		<HandCard uniqueID="" wasSelected="" />
+	</TrainingHand>
+</RemotePlayerGameState>

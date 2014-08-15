@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="LibraryContainer" >
+		<xs:complexType>
+			<xs:sequence>
+			
+				<xs:element name="CardLibrary">
+					<xs:complexType>
+						<xs:sequence>
+						
+							<xs:element name="Card">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:attribute name="Number" type="xsd:string"></xs:attribute>
+										<xs:attribute name="Name" type="xsd:string"></xs:attribute>
+										<xs:attribute name="RockPaperScissorType" type="xsd:string"></xs:attribute>
+										<xs:attribute name="Rarity" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelOne" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelTwo" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelThree" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelFour" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelFive" type="xsd:string"></xs:attribute>
+										<xs:attribute name="PowerLevelSix" type="xsd:string"></xs:attribute>
+										<xs:attribute name="SummonCost" type="xsd:string"></xs:attribute>
+										<xs:attribute name="DamageAssist" type="xsd:string"></xs:attribute>
+										<xs:attribute name="EffectLogic" type="xsd:string"></xs:attribute>
+										<xs:attribute name="EffectDescription" type="xsd:string"></xs:attribute>
+										<xs:attribute name="Color" type="xsd:string"></xs:attribute>
+										<xs:attribute name="CardSeries" type="xsd:string"></xs:attribute>
+										<xs:attribute name="CardSeriesNumber" type="xsd:string"></xs:attribute>
+										
+										<xs:element name="Ability" type="xs:string"/>
+										<xs:element name="CharacterType" type="xs:string"/>
+										<xs:element name="EffectTiming" type="xs:string"/>
+										<xs:element name="TVSeries" type="xs:string"/>
+										
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

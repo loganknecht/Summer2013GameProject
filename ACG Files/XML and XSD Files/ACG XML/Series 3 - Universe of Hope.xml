@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LibraryContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CardLibrary>
+		<Card Number="3-001" Name="Red Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="140" PowerLevelThree="160" PowerLevelFour="180" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>Shield</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-002" Name="Red Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="150" PowerLevelFour="160" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>Shield</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-003" Name="Red Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to reduce the damage you are taking by 1." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-004" Name="Red Ultra Megaforce Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="270" PowerLevelTwo="290" PowerLevelThree="310" PowerLevelFour="MAX" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move any MEGAFORCE cards used to pay this card's cost to the bottom of your deck in any order." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-005" Name="Black Megaforce Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to reduce the damage you are taking by 1." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-006" Name="Black Ultra Megaforce Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="290" PowerLevelThree="310" PowerLevelFour="MAX" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move any MEGAFORCE cards used to pay this card's cost to the bottom of your deck in any order." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-007" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to reduce the damage you are taking by 1." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-008" Name="Blue Ultra Megaforce Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="260" PowerLevelTwo="280" PowerLevelThree="320" PowerLevelFour="MAX" PowerLevelFive="340" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move any MEGAFORCE cards used to pay this card's cost to the bottom of your deck in any order." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-009" Name="Yellow Megaforce Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to reduce the damage you are taking by 1." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-010" Name="Robo Knight" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move a card from your Discard Area below this card." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-011" Name="Robo Knight" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="250" PowerLevelTwo="270" PowerLevelThree="300" PowerLevelFour="330" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move a [HAND] card from your Discard Area to your hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-012" Name="Gosei Jet" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="300" PowerLevelTwo="330" PowerLevelThree="400" PowerLevelFour="450" PowerLevelFive="520" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card would be moved to the bottom of your deck, you may play it onto a MEGAFORCE card in your Battle Area for 1 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-013" Name="Gosei Jet Megazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="410" PowerLevelTwo="430" PowerLevelThree="510" PowerLevelFour="530" PowerLevelFive="620" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may discard a MEGAFORCE card below this to give this +1 damage and +1 to your judgment." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-014" Name="Sky Megazord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="740" PowerLevelTwo="810" PowerLevelThree="860" PowerLevelFour="910" PowerLevelFive="980" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move up to 2 [HAND] cards from your Discard Area to your hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>LOSE</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-015" Name="Gosei Great Grand Megazord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="800" PowerLevelTwo="900" PowerLevelThree="1100" PowerLevelFour="1300" PowerLevelFive="1500" PowerLevelSix="MAX" SummonCost="7" DamageAssist="5" EffectLogic="NA" EffectDescription="Your opponent takes damage equal to the combined damage of the cards below this." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-016" Name="Red Samurai Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="170" PowerLevelFour="190" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If this is battling a card with an effect, you may discard 1 card from your opponent's Training Area." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-017" Name="Red Super Samurai Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="290" PowerLevelThree="310" PowerLevelFour="320" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this is battling a card with an effect, you may discard 1 card from your opponent's Training Area." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-018" Name="Red Samurai Ranger (Lauren)" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="If this is used to pay for a cost of a SUPER SAMURAI card, your opponent discards one card from their Training Area." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-019" Name="Light Megazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="380" PowerLevelTwo="430" PowerLevelThree="490" PowerLevelFour="550" PowerLevelFive="650" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent may discard 1 card from their Training Area. If they do not, they take 2 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>LOSE</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-020" Name="Red RPM Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="210" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="During Settlement, you may discard this card to move all cards from your Battle Area to your Training Area." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-021" Name="Gold RPM Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="180" PowerLevelTwo="230" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="If this is used to play for the cost of a RPM card, you may move it to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-022" Name="RPM Power Rangers" RockPaperScissorType="R" Rarity="Ultra Rare" PowerLevelOne="MAX" PowerLevelTwo="850" PowerLevelThree="MAX" PowerLevelFour="1150" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move this card to your Training Area and discard the card battling this." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-023" Name="Zenith Megazord" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="500" PowerLevelTwo="640" PowerLevelThree="860" PowerLevelFour="1100" PowerLevelFive="1200" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="RPM cards in your Training Area give an additional +1 assist and +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>RPM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-024" Name="Red Jungle Fury Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="180" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's [HAND][WIN][LOSE] effects cannot be used this turn." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-025" Name="Blue Jungle Fury Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="160" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's [ASSIST][WIN][LOSE] effects cannot be used this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-026" Name="Yellow Jungle Fury Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="150" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's [JUDGMENT][WIN][LOSE] effects cannot be used this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-027" Name="Jungle Fury Wolf Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="180" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may redo your judgment up to one for each MAX on the card battling this." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-028" Name="Jungle Fury Rhino Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="190" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may redo your judgment up to once for each player with any cards in their Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-029" Name="Jungle Fury Power Rangers" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="MAX" PowerLevelTwo="250" PowerLevelThree="MAX" PowerLevelFour="500" PowerLevelFive="750" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent's [HAND][WIN][LOSE] and ability symbol effects cannot be used in this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-030" Name="Jungle Pride Megazord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="500" PowerLevelTwo="600" PowerLevelThree="650" PowerLevelFour="750" PowerLevelFive="800" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="If you have no cards in your hand, your opponent cannot assist or use ability symbol effects." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-031" Name="Omega Ranger" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="280" PowerLevelTwo="300" PowerLevelThree="330" PowerLevelFour="370" PowerLevelFive="420" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may exchange your judgment with your opponent's judgment. Then give -1 to your opponent's judgment." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-032" Name="Shadow S.P.D. Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="240" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card is used to pay for the cost of a S.P.D. card, you may treat it as 2 cards." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-033" Name="S.P.D. Power Rangers" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="MAX" PowerLevelTwo="900" PowerLevelThree="MAX" PowerLevelFour="1100" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="If this is at L2, L4, or L6+, this gets +2 damage and you cannot take any damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>S.P.D.</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>LOSE</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-034" Name="Red Dino Thunder Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="130" PowerLevelThree="170" PowerLevelFour="180" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's cards cost 1 more this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-035" Name="Triassic Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="MAX" PowerLevelTwo="220" PowerLevelThree="250" PowerLevelFour="260" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="The cost for your opponent's cards cannot be reduced and may only be paid from their Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-036" Name="Triassic Ranger (Battlizer Mode)" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="MAX" PowerLevelTwo="310" PowerLevelThree="330" PowerLevelFour="360" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="You may move this and the card battling against this to the bottom of its owner's deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-037" Name="Blue Dino Thunder Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="110" PowerLevelTwo="120" PowerLevelThree="150" PowerLevelFour="200" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's cards cost 1 more this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-038" Name="Yellow Dino Thunder Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="140" PowerLevelThree="160" PowerLevelFour="170" PowerLevelFive="190" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Your opponent's cards cost 1 more this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-039" Name="Black Dino Thunder Ranger" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="210" PowerLevelTwo="240" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-040" Name="White Dino Ranger" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>Villain</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>Evil</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-041" Name="Dino Thunder Power Rangers" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="MAX" PowerLevelTwo="480" PowerLevelThree="580" PowerLevelFour="640" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="5" DamageAssist="3" EffectLogic="NA" EffectDescription="Players cannot play Zord or Megazord cards." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-042" Name="Tyrannozord" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="260" PowerLevelTwo="300" PowerLevelThree="330" PowerLevelFour="380" PowerLevelFive="430" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card is on the top of your Discard Area, you may play it onto a DINO THUNDER card for 2 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-043" Name="Tricerazord" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="280" PowerLevelTwo="280" PowerLevelThree="320" PowerLevelFour="370" PowerLevelFive="450" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card is on the top of your Discard Area, you may play it onto a DINO THUNDER card for 2 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-044" Name="Pterazord" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="250" PowerLevelTwo="300" PowerLevelThree="320" PowerLevelFour="390" PowerLevelFive="440" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card is on the top of your Discard Area, you may play it onto a DINO THUNDER card for 2 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-045" Name="Brachiozord" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="330" PowerLevelTwo="380" PowerLevelThree="470" PowerLevelFour="470" PowerLevelFive="550" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="This gets -1 cost for each MAX on the card in your opponent's Battle Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-046" Name="Dinostegazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="320" PowerLevelTwo="390" PowerLevelThree="460" PowerLevelFour="490" PowerLevelFive="540" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="If you have no cards in your hand, your opponent cannot assist." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>Villain</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-047" Name="Thundersaurus Megazord" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="490" PowerLevelTwo="520" PowerLevelThree="580" PowerLevelFour="630" PowerLevelFive="680" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="If this is battling a Ranger or Villain card, the opposing card's power is changed to 0." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-048" Name="Red Ninja Storm Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="140" PowerLevelThree="150" PowerLevelFour="180" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to change the Rock-Paper-Scissors symbol of the card in your Battle Area to Scissors." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-049" Name="Blue Ninja Storm Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="110" PowerLevelTwo="130" PowerLevelThree="160" PowerLevelFour="190" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to change the Rock-Paper-Scissors symbol of the card in your Battle Area to Rock." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-050" Name="Yellow Ninja Storm Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="130" PowerLevelThree="150" PowerLevelFour="170" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may discard this card to change the Rock-Paper-Scissors symbol of the card in your Battle Area to hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-051" Name="Crimson Ninja Storm Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent randomly discards 1 card from their hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>Villain</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-052" Name="Navy Ninja Storm Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="180" PowerLevelTwo="190" PowerLevelThree="200" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent randomly discards 1 card from their hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>Villain</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-053" Name="Green Samurai Ranger (Super Mode)" RockPaperScissorType="P" Rarity="Super Rare" PowerLevelOne="270" PowerLevelTwo="310" PowerLevelThree="340" PowerLevelFour="380" PowerLevelFive="400" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If you opponent has 4 or less cards in their hand, this card has 0 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-054" Name="Ninja Storm Power Rangers" RockPaperScissorType="S" Rarity="Super Rare" PowerLevelOne="MAX" PowerLevelTwo="320" PowerLevelThree="430" PowerLevelFour="MAX" PowerLevelFive="550" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent reveals their hand and you may discard 1 card from their hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-055" Name="Storm Megazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="450" PowerLevelTwo="510" PowerLevelThree="570" PowerLevelFour="630" PowerLevelFive="740" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="Your opponent discards 2 cards from their hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>LOSE</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-056" Name="Storm Megazord (Lightning Mode)" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="370" PowerLevelTwo="400" PowerLevelThree="440" PowerLevelFour="490" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="If your opponent has 3 or less cards in their hand, you may play this card onto a NINJA STORM Megazord card for 0 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Scroll</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-057" Name="Red Wild Force Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Reveal the top card of your deck. If that card has 'Red' or 'Wild' in its name, this gets +1 damage. If it has both, you may draw it." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-058" Name="Blue Wild Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Reveal the top card of your deck. If that card has 'Blue' or 'Wild' in its name, this gets +1 damage. If it has both, you may draw it." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-059" Name="Black Wild Force Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="190" PowerLevelFour="190" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Reveal the top card of your deck. If that card has 'Black' or 'Wild' in its name, this gets +1 damage. If it has both, you may draw it." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-060" Name="Yellow Wild Force Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="150" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="200" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Reveal the top card of your deck. If that card has 'Yellow' or 'Wild' in its name, this card gets +1 damage. If it has both, you may draw it." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-061" Name="White Wild Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="170" PowerLevelFour="200" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="Reveal the top card of your deck. If that card has 'White' or 'Wild' in its name, this card gets +1 damage. If it has both, you may draw it." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-062" Name="Lunar Wolf Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="260" PowerLevelTwo="280" PowerLevelThree="300" PowerLevelFour="320" PowerLevelFive="340" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Reveal the bottom 2 cards of your Discard Area. Then, your opponent moves 1 to your hand and the other to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>WILD FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-063" Name="Red Time Force Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="290" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Look at the top card of a player's deck. Then, move that card the top or bottom of that player's deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-064" Name="Blue Time Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="180" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="270" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Reveal the top card of your opponent's deck. If it is a Support card, discard it. If not, move it to the top or bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-065" Name="Green Time Force Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="200" PowerLevelTwo="220" PowerLevelThree="230" PowerLevelFour="270" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Reveal the top card of your opponent's deck. If it is a Megazord card, discard it. If not, move it to the top or bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-066" Name="Yellow Time Force Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="170" PowerLevelTwo="200" PowerLevelThree="230" PowerLevelFour="290" PowerLevelFive="310" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Reveal the top card of your opponent's deck. If it is a Zord card, discard it. If not, move it to the top or bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-067" Name="Pink Time Force Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="210" PowerLevelTwo="210" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="280" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Reveal the top card of your opponent's deck. If it is a Villain card, discard it. If not, move it to the top or bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-068" Name="Quantum Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="260" PowerLevelTwo="280" PowerLevelThree="310" PowerLevelFour="320" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may play a 'Quantasaurus Rex' card from your Discard Area onto this card for 1 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-069" Name="Quantasaurus Rex" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="410" PowerLevelTwo="450" PowerLevelThree="510" PowerLevelFour="550" PowerLevelFive="580" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may exchange this card with a 'Q-Rex Megazord' card from your Discard Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-070" Name="Q-Rex Megazord" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="520" PowerLevelTwo="650" PowerLevelThree="680" PowerLevelFour="700" PowerLevelFive="750" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="Your opponent discards 1 card from their hand and 1 card from their Training Area. Then, your opponent takes 1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>TIME FORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-071" Name="Red Lightspeed Rescue Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="160" PowerLevelTwo="180" PowerLevelThree="220" PowerLevelFour="280" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent must exchange the card in their Battle Area with 1 card in their Training Area (if they have any)." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>LIGHTSPEED RESCUE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-072" Name="Magna Defender" RockPaperScissorType="S" Rarity="Rare" PowerLevelOne="240" PowerLevelTwo="270" PowerLevelThree="290" PowerLevelFour="330" PowerLevelFive="370" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may redo your judgment and then give +1 to your judgment." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>LOST GALAXY</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-073" Name="Silver Space Ranger" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="260" PowerLevelTwo="260" PowerLevelThree="280" PowerLevelFour="320" PowerLevelFive="380" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="When your opponent performs a judgment, you may give -1 to their judgment for each MAX on the card battling this." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SPACE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>JUDGMENT</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-074" Name="Red Zeo Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="130" PowerLevelTwo="140" PowerLevelThree="160" PowerLevelFour="170" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-075" Name="Green Zeo Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="150" PowerLevelThree="160" PowerLevelFour="160" PowerLevelFive="190" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may give +1 to your judgment for each 'Green Zeo Ranger' card in your Discard Area and Training Area, up to a maximum of +2." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-076" Name="Blue Zeo Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="120" PowerLevelTwo="140" PowerLevelThree="150" PowerLevelFour="180" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="0" EffectLogic="NA" EffectDescription="You may give +1 to your judgment for each 'Blue Zeo Ranger' card in your Discard Area and Training Area, up to a maximum of +2." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-077" Name="Yellow Zeo Ranger" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="140" PowerLevelThree="150" PowerLevelFour="170" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="0" EffectLogic="NA" EffectDescription="You may give +1 to your judgment for each 'Yellow Zeo Ranger' card in your Discard Area and Training Area, up to a maximum of +2." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-078" Name="Pink Zeo Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="110" PowerLevelTwo="130" PowerLevelThree="150" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="You may give +1 to your judgment for each 'Pink Zeo Ranger' card in your Discard Area and Training Area, up to a maximum of +2." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-079" Name="Gold Zeo Ranger" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="200" PowerLevelTwo="230" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="The card battling this has its power changed to 0 if its cost is less than the number of cards in its owner's Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>SHOWDOWN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-080" Name="Zeo Power Rangers" RockPaperScissorType="P" Rarity="Ultra Rare" PowerLevelOne="MAX" PowerLevelTwo="700" PowerLevelThree="MAX" PowerLevelFour="1000" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="When your opponent raises their judgment, you may give +1 to your judgment." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>ZEO</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Dual</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>ASSIST</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-081" Name="Black Mighty Morphin Ranger" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="140" PowerLevelTwo="170" PowerLevelThree="200" PowerLevelFour="230" PowerLevelFive="260" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move a MIGHTY MORPHIN Ranger card from your Discard Area to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-082" Name="Yellow Mighty Morphin Ranger" RockPaperScissorType="R" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="220" PowerLevelFive="270" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move a MIGHTY MORPHIN Ranger card from your Discard Area to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-083" Name="Green Mighty Morphin Ranger" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="170" PowerLevelTwo="180" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="250" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may discard 1 Ranger card in your opponent's Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>Villain</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-084" Name="Mighty Morphin Power Rangers" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="MAX" PowerLevelTwo="1000" PowerLevelThree="MAX" PowerLevelFour="1200" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="7" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move all Ranger cards in the top 6 cards of your Discard Area to your hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>LOSE</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-085" Name="Dino Megazord" RockPaperScissorType="R" Rarity="Super Rare" PowerLevelOne="530" PowerLevelTwo="590" PowerLevelThree="650" PowerLevelFour="710" PowerLevelFive="820" PowerLevelSix="MAX" SummonCost="5" DamageAssist="4" EffectLogic="NA" EffectDescription="You may move up to 2 cards with an ALLY ability symbol from the top 2 cards of your Discard Area to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-086" Name="Dai Shi" RockPaperScissorType="P" Rarity="Rare" PowerLevelOne="280" PowerLevelTwo="310" PowerLevelThree="330" PowerLevelFour="370" PowerLevelFive="410" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="Your opponent's [HAND][LOSE] and ability symbol effects cannot be used this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-087" Name="Camille" RockPaperScissorType="S" Rarity="Common" PowerLevelOne="160" PowerLevelTwo="180" PowerLevelThree="210" PowerLevelFour="220" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move any card with an EVIL ability symbol used to pay this card's cost to the top of your deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>JUNGLE FURY</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-088" Name="Lothor" RockPaperScissorType="R" Rarity="Rare" PowerLevelOne="310" PowerLevelTwo="360" PowerLevelThree="400" PowerLevelFour="430" PowerLevelFive="500" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>NINJA STORM</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>Scroll</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-089" Name="Zeltrax" RockPaperScissorType="P" Rarity="Common" PowerLevelOne="190" PowerLevelTwo="240" PowerLevelThree="260" PowerLevelFour="290" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="Your opponent's cards cost 3 more this turn." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>DINO THUNDER</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-090" Name="Lord Zedd" RockPaperScissorType="S" Rarity="Ultra Rare" PowerLevelOne="330" PowerLevelTwo="350" PowerLevelThree="400" PowerLevelFour="450" PowerLevelFive="470" PowerLevelSix="MAX" SummonCost="4" DamageAssist="3" EffectLogic="NA" EffectDescription="You may play a Villain card from your hand or Discard Area onto this for 0 cost." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MIGHTY MORPHIN</TVSeries>
+			<CharacterType1>Villain</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Evil</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>EXTRA SUMMON STEP</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-091" Name="Light Megazord" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="400" PowerLevelTwo="430" PowerLevelThree="500" PowerLevelFour="520" PowerLevelFive="650" PowerLevelSix="MAX" SummonCost="4" DamageAssist="2" EffectLogic="NA" EffectDescription="This gets +1 damage for each MAX on the cards in your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-092" Name="Lion Folding Zord" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="380" PowerLevelTwo="380" PowerLevelThree="450" PowerLevelFour="490" PowerLevelFive="550" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +2 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-093" Name="Gold Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="200" PowerLevelTwo="210" PowerLevelThree="230" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="If you have any SAMURAI cards in your Training Area, this card's L5 power is changed to MAX instead." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>BATTLING</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-094" Name="Samurai Battlewing" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="750" PowerLevelTwo="800" PowerLevelThree="850" PowerLevelFour="900" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="This gets -1 cost for each SAMURAI and SUPER SAMURAI card in your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-095" Name="Red Super Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="260" PowerLevelThree="270" PowerLevelFour="300" PowerLevelFive="370" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-096" Name="Blue Super Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="260" PowerLevelThree="280" PowerLevelFour="300" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-097" Name="Pink Super Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Rare" PowerLevelOne="MAX" PowerLevelTwo="250" PowerLevelThree="260" PowerLevelFour="330" PowerLevelFive="360" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-098" Name="Green Super Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="240" PowerLevelThree="290" PowerLevelFour="300" PowerLevelFive="370" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-099" Name="Yellow Super Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="260" PowerLevelThree="280" PowerLevelFour="310" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +1 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SUPER SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-100" Name="Red Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="150" PowerLevelTwo="160" PowerLevelThree="170" PowerLevelFour="210" PowerLevelFive="210" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-101" Name="Blue Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="160" PowerLevelTwo="170" PowerLevelThree="180" PowerLevelFour="190" PowerLevelFive="200" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-102" Name="Pink Samurai Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-103" Name="Green Samurai Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="140" PowerLevelTwo="160" PowerLevelThree="180" PowerLevelFour="200" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-104" Name="Yellow Samurai Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="150" PowerLevelTwo="150" PowerLevelThree="190" PowerLevelFour="190" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Ally</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-105" Name="Samurai Power Rangers" RockPaperScissorType="S" Rarity="Starter Rare" PowerLevelOne="MAX" PowerLevelTwo="550" PowerLevelThree="850" PowerLevelFour="1100" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="If this card's power is MAX, this gets +2 damage." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>SAMURAI</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-106" Name="Gosei Tiger Mechazord" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="290" PowerLevelTwo="340" PowerLevelThree="380" PowerLevelFour="450" PowerLevelFive="540" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If the top card of your Discard Area is a Ranger card, you may move it to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-107" Name="Lion Mechazord" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="300" PowerLevelTwo="320" PowerLevelThree="360" PowerLevelFour="460" PowerLevelFive="560" PowerLevelSix="MAX" SummonCost="3" DamageAssist="3" EffectLogic="NA" EffectDescription="If the top card of your Discard Area is a Ranger card, you may move it to your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Zord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-108" Name="Red Ultra Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="270" PowerLevelThree="290" PowerLevelFour="310" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may have a player move a card from their hand to the bottom of their deck." Color="Red" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-109" Name="Red Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="120" PowerLevelTwo="150" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-110" Name="Pink Ultra Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="270" PowerLevelThree="300" PowerLevelFour="310" PowerLevelFive="320" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may have a player move a card from their hand to the bottom of the deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-111" Name="Black Ultra Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="250" PowerLevelThree="290" PowerLevelFour="320" PowerLevelFive="340" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may have a player move a card from their hand to the bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-112" Name="Black Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="130" PowerLevelTwo="150" PowerLevelThree="180" PowerLevelFour="220" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="0" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-113" Name="Yellow Ultra Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="240" PowerLevelThree="280" PowerLevelFour="330" PowerLevelFive="350" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may have a player move a card from their hand to the bottom of the deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-114" Name="Blue Ultra Megaforce Ranger" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="MAX" PowerLevelTwo="250" PowerLevelThree="300" PowerLevelFour="320" PowerLevelFive="330" PowerLevelSix="MAX" SummonCost="2" DamageAssist="2" EffectLogic="NA" EffectDescription="You may have a player move a card from their hand to the bottom of their deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-115" Name="Blue Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="120" PowerLevelTwo="140" PowerLevelThree="200" PowerLevelFour="200" PowerLevelFive="240" PowerLevelSix="MAX" SummonCost="0" DamageAssist="0" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-116" Name="Robo Knight" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="180" PowerLevelTwo="220" PowerLevelThree="240" PowerLevelFour="260" PowerLevelFive="300" PowerLevelSix="MAX" SummonCost="1" DamageAssist="2" EffectLogic="NA" EffectDescription="You may move this card to your hand." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>WIN</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-117" Name="Gosei Grand Megazord" RockPaperScissorType="S" Rarity="Starter Common" PowerLevelOne="730" PowerLevelTwo="790" PowerLevelThree="850" PowerLevelFour="930" PowerLevelFive="1000" PowerLevelSix="MAX" SummonCost="6" DamageAssist="4" EffectLogic="NA" EffectDescription="This gets -1 cost for each MEGAFORCE card in your Training Area." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Megazord</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>HAND</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-118" Name="Pink Megaforce Ranger" RockPaperScissorType="R" Rarity="Starter Common" PowerLevelOne="140" PowerLevelTwo="140" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="220" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-119" Name="Yellow Megaforce Ranger" RockPaperScissorType="P" Rarity="Starter Common" PowerLevelOne="120" PowerLevelTwo="150" PowerLevelThree="190" PowerLevelFour="210" PowerLevelFive="230" PowerLevelSix="MAX" SummonCost="0" DamageAssist="1" EffectLogic="NA" EffectDescription="NA" Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>Shield</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>NA</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+		<Card Number="3-120" Name="Megaforce Power Rangers" RockPaperScissorType="S" Rarity="Starter Rare" PowerLevelOne="MAX" PowerLevelTwo="700" PowerLevelThree="850" PowerLevelFour="950" PowerLevelFive="MAX" PowerLevelSix="MAX" SummonCost="6" DamageAssist="3" EffectLogic="NA" EffectDescription="Move the top 2 cards of your Discard Area to the bottom of your deck." Color="NA" CardSeries="Universe of Hope" CardSeriesNumber="3">
+			<TVSeries>MEGAFORCE</TVSeries>
+			<CharacterType1>Ranger</CharacterType1>
+			<CharacterType2>NA</CharacterType2>
+			<Ability1>NA</Ability1>
+			<Ability2>NA</Ability2>
+			<EffectTiming1>PLAYED</EffectTiming1>
+			<EffectTiming2>NA</EffectTiming2>
+			<EffectTiming3>NA</EffectTiming3>
+		</Card>
+	</CardLibrary>
+</LibraryContainer>

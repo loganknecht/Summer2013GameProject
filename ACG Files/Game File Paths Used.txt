@@ -1,0 +1,21 @@
+//-----------------------------------------------------------------------------
+Data Path
+//-----------------------------------------------------------------------------
+Data Path: C:/Users/Hugbot/Documents/Unity Projects/MegaForce Card Game/Assets
+UnityEngine.Debug:Log(Object)
+DeckBuilderLogic:Start() (at Assets/Scripts/Classes/DeckBuilder/DeckBuilderLogic.cs:55)
+
+Deck Path: C:/Users/Hugbot/Documents/Unity Projects/MegaForce Card Game/Assets/Resources/
+UnityEngine.Debug:Log(Object)
+DeckBuilderLogic:Start() (at Assets/Scripts/Classes/DeckBuilder/DeckBuilderLogic.cs:56)
+
+//-----------------------------------------------------------------------------
+Windows Persistent Data Path
+//-----------------------------------------------------------------------------
+Data Path: C:/Users/Hugbot/AppData/LocalLow/DefaultCompany/MegaForce Card Game
+UnityEngine.Debug:Log(Object)
+DeckBuilderLogic:Start() (at Assets/Scripts/Classes/DeckBuilder/DeckBuilderLogic.cs:55)
+
+Deck Path: C:/Users/Hugbot/AppData/LocalLow/DefaultCompany/MegaForce Card Game/Resources/
+UnityEngine.Debug:Log(Object)
+DeckBuilderLogic:Start() (at Assets/Scripts/Classes/DeckBuilder/DeckBuilderLogic.cs:56)

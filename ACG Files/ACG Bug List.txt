@@ -1,0 +1,6 @@
+BUG LIST
+
+- Creating a card deck needs to have invalid cahracters filtered out of for the naming string. Some characters that need to be filtered are '\', '/'
+- Start working on effect timing
+	- try to organize the effect timing abilitis into some sort of logical grouping
+- Fix bug where game over won't trigger on draw turn action

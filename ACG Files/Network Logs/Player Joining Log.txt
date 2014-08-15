@@ -1,0 +1,6 @@
+Connected to facilitator at 54.215.135.73:50005
+
+Doing NAT punch through to 1368694145000 using 54.215.135.73:50005
+
+NAT target 1368694145000 not connected to NAT facilitator 54.215.135.73:50005
+
